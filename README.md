@@ -39,12 +39,12 @@
 
   <img align="right"  alt=" Amir " width="400px" src="https://camo.githubusercontent.com/bdd83d68a299d216e3873d2a8f702c4c579aa0f1d015bf48d86532fbf5013dad/68747470733a2f2f7777772e67696663656e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f31312f6861636b65722d6769662d382e676966">
 
-
+<img align="right"  alt=" Amir " width="400px" src="https://media.tenor.com/wF5RiCnfj34AAAAM/work-computer.gif">
 
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isoamir&show_icons=true&locale=en" alt="isoamir" /></p>
 
-<img align="right"  alt=" Amir " width="400px" src="https://media.tenor.com/wF5RiCnfj34AAAAM/work-computer.gif">
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isoamir&" alt="isoamir" /></p>
